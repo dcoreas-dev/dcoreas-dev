@@ -47,7 +47,10 @@
 <h2 align="center">Estadísticas de GitHub</h2>
 
 ###
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dcoreas-dev&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de Diego" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dcoreas-dev&layout=compact&theme=tokyonight" alt="Lenguajes más usados" width="48%" />
+</p>
 <div align="center">
   <img src="https://raw.githubusercontent.com/dcoreas-dev/dcoreas-dev/stats-output/stats.svg" height="150" alt="stats graph"  />
   <img src="https://raw.githubusercontent.com/dcoreas-dev/dcoreas-dev/languages-output/languages.svg" height="150" alt="languages graph"  />
